@@ -1,0 +1,12 @@
+name: DataScienceCourseCapstone
+title: DataScienceCourseCapstone
+username:
+account: shrayambanerjee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2693593
+bundleId: 3542324
+url: https://shrayambanerjee.shinyapps.io/DataScienceCourseCapstone/
+when: 1598024764.82874
+asMultiple: FALSE
+asStatic: FALSE
